@@ -1,2 +1,2 @@
-# blog-aventura-sobre-ruedas
+# Blog de Aventura sobre Ruedas
 Un blog para usuarios de motos que buscan aventuras
