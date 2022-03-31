@@ -1,0 +1,113 @@
+/*********************** NAVIGATOR ************************/
+
+.nav-bar__container {
+    width: 1025px;
+    margin: 0 auto;
+}
+
+
+/********************* HEADER SLIDER *********************/
+
+.header-slider__container {
+    background-image: url("/images/header-background-desktop.jpg");
+}
+
+/********************* SECTION TOP *********************/
+
+.section-top__container {
+    display: flex;
+    width: 1025px;
+    margin: 0 auto;
+}
+
+.section-top__text {
+    width: 50%;
+    padding-right: 20px;
+    padding-top: 125px;
+}
+
+.section-top__img {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    width: 50%;
+    padding-top: 75px;
+}
+
+.section-top__img--01, .section-top__img--02 {
+    width: 50%;
+    height: auto;
+    padding: 0 10px;
+    
+}
+
+/********************* SECTION MIDDLE *********************/
+
+.section-middle__container {
+    width: 1025px;
+    margin: 0 auto;
+}
+
+.section-middle__galery--item-1 {
+    background-image: url("/images/galery-img-3-desktop.jpg");
+}
+
+.section-middle__galery--item-2 {
+    background-image: url("/images/galery-img-2-desktop.jpg");
+}
+
+.section-middle__galery--item-3 {
+    background-image: url("/images/galery-img-1-desktop.jpg");
+}
+
+/********************* SECTION BOTTOM *********************/
+
+.section-bottom__container {
+    width: 1025px;
+    margin: 0 auto;
+}
+
+.section-bottom__article {
+    display: flex;    
+}
+
+.section-bottom__article--card:first-child {
+    padding-right: 20px;
+}
+
+.section-bottom__article--card:last-child {
+    padding-left: 20px;
+}
+
+/************************** FOOTER **************************/
+
+/* FOOTER TOP */
+.footer-top {
+    display: flex;
+    width: 1025px;
+    margin: 0 auto;
+}
+
+.footer-top__element-1, .footer-top__element-3 {
+    width: 25%;
+}
+
+.footer-top__element-2 {
+    width: 50%;
+    padding-top: 100px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.footer-top__element-3 {
+    padding-top: 100px;
+}
+
+/* FOOTER BOTTOM */
+.footer-bottom {
+    display: flex;
+    justify-content: space-between;
+    width: 1025px;
+    margin: 0 auto;
+}
+
