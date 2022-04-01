@@ -45,7 +45,7 @@
 /********************* HEADER SLIDER *********************/
 
 .header-slider__container {
-    background-image: url("/images/header-background-desktop.jpg");
+    background-image: url("./images/header-background-desktop.jpg");
 }
 
 /********************* SECTION TOP *********************/
@@ -84,15 +84,15 @@
 }
 
 .section-middle__galery--item-1 {
-    background-image: url("/images/galery-img-3-desktop.jpg");
+    background-image: url("./images/galery-img-3-desktop.jpg");
 }
 
 .section-middle__galery--item-2 {
-    background-image: url("/images/galery-img-2-desktop.jpg");
+    background-image: url("./images/galery-img-2-desktop.jpg");
 }
 
 .section-middle__galery--item-3 {
-    background-image: url("/images/galery-img-1-desktop.jpg");
+    background-image: url("./images/galery-img-1-desktop.jpg");
     background-position: center;
     background-size: cover;
 }
